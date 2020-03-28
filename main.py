@@ -1,4 +1,3 @@
-from data import get_weather
 import os
 import requests
 import tkinter as tk
